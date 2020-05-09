@@ -8,7 +8,7 @@ With this project, you are able to list and create transactions consuming it's A
 
 Install dependencies running ```yarn```
 
-Then ```yarn dev```
+Then ```yarn dev:server```
 
 and you are good to go! 🙂
 
